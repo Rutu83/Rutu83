@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [It's personal unable to provide link now.](It's personal unable to provide link now.)
 
-- 📝 I regularly write articles on [-](-)
-
 - 💬 Ask me about **Security questions , Android development , firebase database related questions**
 
 - 📫 How to reach me **...rathodrutu7690@gmail.com,Instagram: exploit_hacker_777**
