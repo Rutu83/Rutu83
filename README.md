@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Personal-assistant](-)
 
-- 🌱 I’m currently learning **Ceh(certified ethical hacker), Ethical hacking, java , Android development, Studying my diploma in Information Technology**
+- 🌱 I’m currently learning **Ceh(certified ethical hacker), Ethical hacking, java , Android development, completed my diploma in Information Technology**
 
 - 👯 I’m looking to collaborate on [-](-)
 
