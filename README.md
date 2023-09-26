@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutu83" alt="rutu83" /></a> </p>
 
-- 🔭 I’m currently working on [Personal-assistant](-)
 
 - 🌱 I’m currently learning **Ceh(certified ethical hacker), Ethical hacking, java , Android development, completed my diploma in Information Technology**
 
