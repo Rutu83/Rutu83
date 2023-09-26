@@ -8,17 +8,9 @@
 
 - 🌱 I’m currently learning **Ceh(certified ethical hacker), Ethical hacking, java , Android development, completed my diploma in Information Technology**
 
-- 👯 I’m looking to collaborate on [-](-)
-
-- 🤝 I’m looking for help with [-](-)
-
-- 👨‍💻 All of my projects are available at [It's personal unable to provide link now.](It's personal unable to provide link now.)
-
-- 💬 Ask me about **Security questions , Android development , firebase database related questions**
+- 💬 Ask me about **Cyber Security releted questions , Android development , firebase database related questions**
 
 - 📫 How to reach me **...rathodrutu7690@gmail.com,Instagram: exploit_hacker_777**
-
-- 📄 Know about my experiences [-](-)
 
 - ⚡ Fun fact **-**
 
